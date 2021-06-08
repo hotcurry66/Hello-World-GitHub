@@ -1,0 +1,17 @@
+{
+  "name": "killik_test",
+  "version": "1.0.0",
+  "description": "Killik Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Natar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^90.0.1",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  }
+}
